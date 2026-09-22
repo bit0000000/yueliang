@@ -2856,4 +2856,5 @@ const wordBank = {
 
 };
 
-window.TOPICS = TOPICS;
+window.wordBank = wordBank;
+window.TOPICS = wordBank;

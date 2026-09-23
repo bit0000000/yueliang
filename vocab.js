@@ -1880,8 +1880,10 @@ const wordBank = {
     "Korean cities","Seoul","Busan","Jeju","Incheon","Daegu","Daejeon","Gwangju","Suwon","Gyeongju",
     "Korean landmarks","N Seoul Tower","Lotte World Tower","Banpo Bridge","63 Building","Dongdaemun Design Plaza","Gyeongbokgung","Bukchon Hanok Village","Namsan","Han River",
     "Korean seasons","spring","summer","monsoon season","autumn","winter","snow","cherry blossoms","autumn foliage","first snow",
-    "Korean pop culture","K-drama","K-pop","K-movie","K-webtoon","K-beauty","K-fashion","K-food","K-content","Hallyu",
-    "Random Challenge 🎲": [
+    "Korean pop culture","K-drama","K-pop","K-movie","K-webtoon","K-beauty","K-fashion","K-food","K-content","Hallyu"
+  ],
+  
+  "Random Challenge 🎲": [
     "umbrella","dinosaur","astronaut","volcano","castle","pirate","treasure","telescope","mermaid","robot",
     "magician","dragon","rainbow","submarine","spaceship","lighthouse","detective","crown","compass","rocket",
     "unicorn","wizard","princess","knight","fairy","giant","monster","alien","ghost","vampire",

@@ -170,6 +170,3 @@ const VOCAB_PLACES = {
   ]
 
 };
-
-window.VOCAB_PLACES = VOCAB_PLACES;
-window.TOPICS = VOCAB_PLACES;
